@@ -47,6 +47,7 @@ PLATFORMS
   ruby
 
 DEPENDENCIES
+  guard
   guard-minitest
   minitest
   rake
